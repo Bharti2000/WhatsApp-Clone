@@ -1,0 +1,9 @@
+client/node_modules
+socket/node_modules
+server/node_modules
+server/.env
+client/data
+socket/index
+server/index
+client/.gitignore
+
